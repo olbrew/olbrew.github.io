@@ -7,5 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://olbrew.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://olbrew.me/about/</link>
+      <pubDate>Mon, 04 Jan 2021 23:19:21 +0100</pubDate>
+      
+      <guid>https://olbrew.me/about/</guid>
+      <description>Hello world, I&amp;rsquo;m Olivier.
+I&amp;rsquo;m a freelance product owner &amp;amp; project manager whose experience lies in leading technical teams and providing technical guidance. I’m at my best translating business needs into technological solutions with and for a team.
+A great user experience, security and maintainable code are important for me and contribute to both the end-user and developers’ happiness.
+I am ambitious and driven with a never-ending curiosity which always keeps me learning.</description>
+    </item>
+    
   </channel>
 </rss>
